@@ -1,4 +1,5 @@
 <?php
+header("Content-Type:text/html;charset=utf-8");  
 //获取表单内数据
 $z01 = $_POST["wenti01"];
 $z02 = $_POST["wenti02"];
